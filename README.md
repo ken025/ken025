@@ -1,4 +1,4 @@
-# Hello there, I'm Kenneth! [<a href="https://www.linkedin.com/in/ben-dunn-15977b15b/" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>](https://www.linkedin.com/in/kenneth-m-colon/) 
+# Hello there, I'm Kenneth! [<a href="https://www.linkedin.com/in/kenneth-m-colon/" target="blank"><img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>](https://www.linkedin.com/in/kenneth-m-colon/) 
 
 Full-Stack Software Engineer experienced in Ruby, Ruby on Rails, JavaScript, Redux and React. My customer service and food & beverage experience strengthened my communication and interpersonal skills with a positive attitude.
 
