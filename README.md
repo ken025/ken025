@@ -7,6 +7,9 @@ Being fluent in two languages, Spanish and English, developed my critical thinki
 My passion for learning, arts and creating is the reason for my enthusiasm and commitment to programming. 
 
 ## Projects :computer: 
+- [Percentage](https://github.com/ken025/Percentage-React-Redux-Project.git)
+  - React/Redux application based on keeping track of expenses and savings.
+
 - [Accent:](https://github.com/ken025/Accent-JS-Project.git)
   - JavaScript application for users to create and post pins of fashion, cuisine, and interior design
   
@@ -19,6 +22,6 @@ My passion for learning, arts and creating is the reason for my enthusiasm and c
 - [TriviaQ:](https://github.com/ken025/CLI-TriviaQ.git)
   - CLI general question trivia application
   
- ### Contact me :incoming_envelope:
+### Contact me :incoming_envelope:
   - Kennethmanuel250@gmail.com
 
