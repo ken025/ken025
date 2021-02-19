@@ -13,7 +13,7 @@ My passion for learning, arts and creating is the reason for my enthusiasm and c
 - [Accent:](https://github.com/ken025/Accent-JS-Project.git)
   - JavaScript application for users to create and post pins of fashion, cuisine, and interior design
   
-- [Let's Taco Bout It:](https://github.com/ken025/taco_bout_it.git)
+- [Let's Taco Bout It:](https://github.com/ken025/taco_bout_it.git) - [Try it out!](https://agile-ridge-60021.herokuapp.com/)
   - Rails application designed for users to review their  favorite restaurants or browse through reviews 
   
 - [My Pantry:](https://github.com/ken025/Pantry_Sinatra_Project.git)
