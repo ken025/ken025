@@ -7,13 +7,13 @@ Being fluent in two languages, Spanish and English, developed my critical thinki
 My passion for learning, arts and creating is the reason for my enthusiasm and commitment to programming. 
 
 ## Projects :computer: 
-- [Percentage](https://github.com/ken025/Percentage-React-Redux-Project.git) - [Try it out!](http://percentage.surge.sh/)
+- [Percentage](https://github.com/ken025/Percentage-React-Redux-Project.git) - [Check it out!](http://percentage.surge.sh/)
   - React/Redux application based on keeping track of expenses and savings.
 
-- [Accent:](https://github.com/ken025/Accent-JS-Project.git) - [Try it out!](http://accent.surge.sh/)
+- [Accent:](https://github.com/ken025/Accent-JS-Project.git) - [Check it out!](http://accent.surge.sh/)
   - JavaScript application for users to create and post pins of fashion, cuisine, and interior design
   
-- [Let's Taco Bout It:](https://github.com/ken025/taco_bout_it.git) - [Try it out!](https://agile-ridge-60021.herokuapp.com/)
+- [Let's Taco Bout It:](https://github.com/ken025/taco_bout_it.git) - [Check it out!](https://agile-ridge-60021.herokuapp.com/)
   - Rails application designed for users to review their  favorite restaurants or browse through reviews 
   
 - [My Pantry:](https://github.com/ken025/Pantry_Sinatra_Project.git)
